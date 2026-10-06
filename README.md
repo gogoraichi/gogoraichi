@@ -1,4 +1,4 @@
-# Nick｜NeoCaptain
+# 把 AI、設計與工作流，做成可執行的作品
 
 我是 Nick，氖機智造（Neohime）的主理人。
 
@@ -26,7 +26,7 @@
 <details>
 <summary>English</summary>
 
-## Nick｜NeoCaptain
+## Nick｜Neohime
 
 I run Neohime, where I explore practical ways to use AI in creative work, design, and technology.
 
